@@ -41,6 +41,5 @@
 1. 学会使用 stylus 编写模块化的 CSS
 2. 学会使用 Vue.js 的过渡编写酷炫的交互动画
 3. 学会制作并使用图标字体
-4. 学会解决移动端 1px 边框问题
-5. 学会移动端经典的 css sticky footer 布局
-6. 学会 flex 弹性布局
+4. 学会移动端经典的 css sticky footer 布局
+5. 学会 flex 弹性布局
